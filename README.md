@@ -7,12 +7,12 @@ I am an open source programmer. All my contributions are freetime contributions.
 Current projects:
 
 * LMMS: Lv2 UI
-* ZynAddSubFX: `wavetable` test branch (experimental stuff only)
+* ZynAddSubFX: [wavetable test PR](https://github.com/zynaddsubfx/zynaddsubfx/pull/61) zynaddsubfx/zynaddsubfx#61 (experimental stuff only)
 * OpenTTD map resizer (experimental)
 
 [LMMS](https://github.com/lmms/lmms) (2014-present, top 10 in commit counts):
 
-* Lv2 core, URIDs, Options, Worker
+* Lv2 core, URIDs, options, worker
 * osc-plugin (deprecated)
 * some re-org PRs (including clang-format, clang-tidy)
 * code check python scripts
