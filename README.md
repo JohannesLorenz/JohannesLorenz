@@ -10,6 +10,7 @@ Current projects:
 
 * LMMS: Lv2 UI
 * ZynAddSubFX: [wavetable test PR](https://github.com/zynaddsubfx/zynaddsubfx/pull/61) (experimental stuff only)
+* CALF: CI
 * OpenTTD map resizer (experimental)
 
 [LMMS](https://github.com/lmms/lmms) (2014-present, top 10 in commit counts):
@@ -37,6 +38,11 @@ Current projects:
 * OSC pretty-printer/-scanner
 * OSC savefiles
 * default values
+
+[CALF](https://github.com/calf-studio-gear/calf) (active maintainer in 2023):
+
+* Setting up CI for various systems
+* Reviewing and merging PRs
 
 My own, finished projects:
 
